@@ -1,6 +1,6 @@
 /*
  *
- * This JS is essentially useless without a form and HTML input...
+ * This JS 
  *
  */
 
@@ -28,8 +28,6 @@ v: ["active ","passive "],
 m: ["indicative ","subjunctive ", "imperative "]
 };
 
-/* Test conjugation code (must be manual for now) */
-var z = 11311;
-document.writeln("Input: "+z+"<br><br>");
-
-prntConj(z);
+/* Input conjugation code (parameter) */
+document.writeln("Input: "+cod+"<br><br>");
+prntConj(cod);
