@@ -1,3 +1,0 @@
-function analyzeSentence(sentence) {
-
-}
