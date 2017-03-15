@@ -1,0 +1,3 @@
+function analyzeSentence(sentence) {
+
+}
