@@ -1,5 +1,14 @@
+
 red: {
 	color: #FF0000;
 	font-size: 12px;
 	vertical-align: middle;
+}
+
+test: {
+	color: #11EAAE;
+}
+
+test2: {
+	color: green;
 }
